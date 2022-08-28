@@ -1,0 +1,1452 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ 126.7925802, 37.6722871 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5991884827753448136",
+      "Location" : {
+        "Address" : "대한민국 경기도 고양시 일산동구 풍산동 애니골길 52",
+        "Business Name" : "가나안덕",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.6722871",
+          "Longitude" : "126.7925802"
+        }
+      },
+      "Published" : "2022-05-28T09:18:49Z",
+      "Title" : "가나안덕",
+      "Updated" : "2022-05-28T09:18:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.9143464, 37.5903119 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12824127788009311237",
+      "Location" : {
+        "Address" : "대한민국 서울특별시 은평구 응암동 불광천길 366",
+        "Business Name" : "오레노라멘 은평점",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5903119",
+          "Longitude" : "126.9143464"
+        }
+      },
+      "Published" : "2022-03-05T09:56:39Z",
+      "Title" : "오레노라멘 은평점",
+      "Updated" : "2022-03-05T09:56:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.9236963, 37.5549967 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5766603300319164026",
+      "Location" : {
+        "Address" : "대한민국 서울특별시 마포구 와우산로23길 52",
+        "Business Name" : "하카타나카",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5549967",
+          "Longitude" : "126.9236963"
+        }
+      },
+      "Published" : "2022-02-27T07:56:49Z",
+      "Title" : "하카타나카",
+      "Updated" : "2022-02-27T07:56:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.9362275, 26.6034728 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=26.603473,127.936228",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "26.6034728",
+          "Longitude" : "127.9362275"
+        }
+      },
+      "Published" : "2018-11-05T11:22:03Z",
+      "Title" : "26.603473,127.936228",
+      "Updated" : "2022-02-26T14:22:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.9487099, 37.5395831 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13781938605933845406",
+      "Location" : {
+        "Address" : "대한민국 서울특별시 마포구 도화동 269번지 1층",
+        "Business Name" : "아소비바",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5395831",
+          "Longitude" : "126.9487099"
+        }
+      },
+      "Published" : "2022-02-04T05:03:31Z",
+      "Title" : "아소비바",
+      "Updated" : "2022-02-04T05:03:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.4344048, 35.8000403 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17756324117223020667",
+      "Location" : {
+        "Address" : "대한민국 전라북도 군산시 옥도면 무녀도리 102",
+        "Business Name" : "해들목펜션",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "35.8000403",
+          "Longitude" : "126.4344048"
+        }
+      },
+      "Published" : "2022-01-08T01:46:27Z",
+      "Title" : "해들목펜션",
+      "Updated" : "2022-01-08T01:46:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.9547228, 37.5469203 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15175980231453437700",
+      "Location" : {
+        "Address" : "대한민국 서울특별시 마포구 공덕동 242-6번지",
+        "Business Name" : "멘카야",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5469203",
+          "Longitude" : "126.9547228"
+        }
+      },
+      "Published" : "2021-12-29T03:53:11Z",
+      "Title" : "멘카야",
+      "Updated" : "2021-12-29T03:53:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.9201893, 37.5493583 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12267075150193494929",
+      "Location" : {
+        "Address" : "대한민국 서울특별시 마포구 서교동 독막로9길 26",
+        "Business Name" : "야키토리 나루토",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5493583",
+          "Longitude" : "126.9201893"
+        }
+      },
+      "Published" : "2021-05-15T10:33:01Z",
+      "Title" : "야키토리 나루토",
+      "Updated" : "2021-05-15T10:33:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.9504185, 37.3902025 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17646825978214096985",
+      "Location" : {
+        "Address" : "대한민국 경기도 안양시 동안구 시민대로 180 롯데백화점 평촌점 10층",
+        "Business Name" : "끌레드쉐프 롯데백화점평촌점",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.3902025",
+          "Longitude" : "126.9504185"
+        }
+      },
+      "Published" : "2020-07-29T05:25:16Z",
+      "Title" : "끌레드쉐프",
+      "Updated" : "2020-07-29T05:25:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.9800923, 37.5656193 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18267443925277423568",
+      "Location" : {
+        "Address" : "대한민국 서울특별시 중구 을지로 30 롯데호텔서울 Main Tower 1층",
+        "Business Name" : "라세느",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5656193",
+          "Longitude" : "126.9800923"
+        }
+      },
+      "Published" : "2020-07-29T02:17:12Z",
+      "Title" : "라세느",
+      "Updated" : "2020-07-29T02:17:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.9158363, 37.5913700 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9347596411691882869",
+      "Location" : {
+        "Address" : "대한민국 서울특별시 은평구 가좌로 244",
+        "Business Name" : "테이블도트",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5913700",
+          "Longitude" : "126.9158363"
+        }
+      },
+      "Published" : "2020-07-23T09:48:05Z",
+      "Title" : "테이블도트",
+      "Updated" : "2020-07-23T09:48:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7726717, 34.9671402 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8870624639634301673",
+      "Location" : {
+        "Address" : "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882 일본",
+        "Business Name" : "후시미 이나리 신사",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "34.9671402",
+          "Longitude" : "135.7726717"
+        }
+      },
+      "Published" : "2019-10-28T01:00:19Z",
+      "Title" : "후시미 이나리 신사",
+      "Updated" : "2019-10-28T01:00:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.9220046, 37.5525965 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=729491984992833823",
+      "Location" : {
+        "Address" : "대한민국 서울특별시 마포구 와우산로21길 36-6",
+        "Business Name" : "혼가츠",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5525965",
+          "Longitude" : "126.9220046"
+        }
+      },
+      "Published" : "2019-06-10T12:00:15Z",
+      "Title" : "혼가츠",
+      "Updated" : "2019-06-10T12:00:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7775204, 35.0297430 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=35.029743,135.777520",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "35.0297430",
+          "Longitude" : "135.7775204"
+        }
+      },
+      "Published" : "2017-07-02T11:03:04Z",
+      "Title" : "35.029743,135.777520",
+      "Updated" : "2019-06-08T09:56:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.9226642, 37.5492454 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6351849946184203558",
+      "Location" : {
+        "Address" : "대한민국 서울특별시 마포구 상수동 와우산로 51-6",
+        "Business Name" : "칸다소바 홍대점",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5492454",
+          "Longitude" : "126.9226642"
+        }
+      },
+      "Published" : "2019-05-06T08:13:25Z",
+      "Title" : "칸다소바",
+      "Updated" : "2019-05-06T08:13:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.0252568, 37.5764932 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10664256391679848764",
+      "Location" : {
+        "Address" : "대한민국 서울특별시 동대문구 왕산로 15-1 2층",
+        "Business Name" : "즐거운 맛 돈까스",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5764932",
+          "Longitude" : "127.0252568"
+        }
+      },
+      "Published" : "2019-04-30T10:31:20Z",
+      "Title" : "즐거운맛돈까스",
+      "Updated" : "2019-04-30T10:31:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.8949204, 37.6264427 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1861377235479714234",
+      "Location" : {
+        "Address" : "대한민국 경기도 고양시 덕양구 용두동 432-46",
+        "Business Name" : "원조카우보이한방통닭",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.6264427",
+          "Longitude" : "126.8949204"
+        }
+      },
+      "Published" : "2019-03-08T07:33:31Z",
+      "Title" : "원조카우보이한방통닭",
+      "Updated" : "2019-03-08T07:33:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.7710864, 35.6992155 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2100043306315569724",
+      "Location" : {
+        "Address" : "일본 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1 Chome−11−11 ビルディング",
+        "Business Name" : "GIGO 아키하바라 3호관",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6992155",
+          "Longitude" : "139.7710864"
+        }
+      },
+      "Published" : "2019-01-03T04:52:21Z",
+      "Title" : "CLUB SEGA 아키하바라 신관",
+      "Updated" : "2019-01-03T04:52:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.7974644, 35.6321416 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11876362316687890945",
+      "Location" : {
+        "Address" : "3 Chome-11-1 Ariake, Koto City, Tokyo 135-0063 일본",
+        "Business Name" : "도쿄빅사이트 (도쿄국제전시장)",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6321416",
+          "Longitude" : "139.7974644"
+        }
+      },
+      "Published" : "2019-01-03T04:51:13Z",
+      "Title" : "도쿄빅사이트 (도쿄국제전시장)",
+      "Updated" : "2019-01-03T04:51:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.7701447, 35.6987355 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2990359935172180074",
+      "Location" : {
+        "Address" : "1 Chome-9-5 Sotokanda, Chiyoda City, Tokyo 101-0021 일본",
+        "Business Name" : "도쿄 레저랜드 아키하바라점",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6987355",
+          "Longitude" : "139.7701447"
+        }
+      },
+      "Published" : "2019-01-03T04:50:15Z",
+      "Title" : "도쿄 레저랜드 아키하바라점",
+      "Updated" : "2019-01-03T04:50:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.7749311, 35.6992822 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8112119115989612362",
+      "Location" : {
+        "Address" : "일본 〒101-0028 Tokyo, Chiyoda City, Kanda Hanaokacho, １−1 ヨドバシAKIBA1F",
+        "Business Name" : "Tucano's Grill",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6992822",
+          "Longitude" : "139.7749311"
+        }
+      },
+      "Published" : "2019-01-03T04:49:51Z",
+      "Title" : "Tucano's Grill",
+      "Updated" : "2019-01-03T04:49:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.5422222, 35.3092694 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=449768312784317213",
+      "Location" : {
+        "Address" : "일본 〒248-0014 가나가와현 가마쿠라시 유이가하마 4 조메",
+        "Business Name" : "유이가하마 해수욕장",
+        "Geo Coordinates" : {
+          "Latitude" : "35.3092694",
+          "Longitude" : "139.5422222"
+        }
+      },
+      "Published" : "2019-01-01T04:27:28Z",
+      "Title" : "유이가하마 해수욕장",
+      "Updated" : "2019-01-01T04:27:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.7707522, 35.6990738 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15360740433849066519",
+      "Location" : {
+        "Address" : "일본 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1 Chome−10−5 広瀬本社ビル B1",
+        "Business Name" : "멜론북스 아키하바라 1호점",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6990738",
+          "Longitude" : "139.7707522"
+        }
+      },
+      "Published" : "2019-01-01T03:36:49Z",
+      "Title" : "멜론북스 아키하바라 1호점",
+      "Updated" : "2019-01-01T03:36:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.7678943, 35.7020186 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17552749546243718283",
+      "Location" : {
+        "Address" : "2 Chome-16-2 Sotokanda, Chiyoda City, Tokyo 101-0021 일본",
+        "Business Name" : "에도 총진수 간다 신사 (간다묘진)",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.7020186",
+          "Longitude" : "139.7678943"
+        }
+      },
+      "Published" : "2018-12-31T14:13:08Z",
+      "Title" : "칸다 묘진",
+      "Updated" : "2018-12-31T14:13:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.7730717, 35.6983830 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1553519931154601905",
+      "Location" : {
+        "Address" : "1 Chome Sotokanda, Chiyoda City, Tokyo, 일본",
+        "Business Name" : "아키하바라",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6983830",
+          "Longitude" : "139.7730717"
+        }
+      },
+      "Published" : "2018-12-31T07:48:16Z",
+      "Title" : "아키하바라",
+      "Updated" : "2018-12-31T07:48:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.7703642, 35.7005468 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13781524808708315550",
+      "Location" : {
+        "Address" : "3 Chome-2-9 Sotokanda, Chiyoda City, Tokyo 101-0021 일본",
+        "Business Name" : "ALBA Akihabara",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.7005468",
+          "Longitude" : "139.7703642"
+        }
+      },
+      "Published" : "2018-12-30T09:37:21Z",
+      "Title" : "カレーの市民 アルバ 秋葉原店",
+      "Updated" : "2018-12-30T09:37:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.7717200, 35.7004492 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11522491445043575433",
+      "Location" : {
+        "Address" : "4 Chome-3-1 Sotokanda, Chiyoda City, Tokyo 101-0021 일본",
+        "Business Name" : "코믹 토라노아나 아키하바라점A",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.7004492",
+          "Longitude" : "139.7717200"
+        }
+      },
+      "Published" : "2018-12-30T05:50:30Z",
+      "Title" : "토라노아나 아키하바라점 A",
+      "Updated" : "2018-12-30T05:50:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.6428944, 35.4525944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10706320581550947699",
+      "Location" : {
+        "Address" : "1 Chome-1 Shinko, Naka Ward, Yokohama, Kanagawa 231-0001 일본",
+        "Business Name" : "요코하마 아카렌가소코 2호관",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.4525944",
+          "Longitude" : "139.6428944"
+        }
+      },
+      "Published" : "2018-12-28T05:22:16Z",
+      "Title" : "아카렌가 창고",
+      "Updated" : "2018-12-28T05:22:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.6453795, 35.4433866 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12938008890419813977",
+      "Location" : {
+        "Address" : "151 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023 일본",
+        "Business Name" : "Ryumon",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.4433866",
+          "Longitude" : "139.6453795"
+        }
+      },
+      "Published" : "2018-12-28T05:22:01Z",
+      "Title" : "Ryumon",
+      "Updated" : "2018-12-28T05:22:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.6477747, 35.4421328 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10424689788304133941",
+      "Location" : {
+        "Address" : "Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023 일본",
+        "Business Name" : "요코하마 차이나타운",
+        "Geo Coordinates" : {
+          "Latitude" : "35.4421328",
+          "Longitude" : "139.6477747"
+        }
+      },
+      "Published" : "2018-12-28T05:20:08Z",
+      "Title" : "요코하마 차이나타운",
+      "Updated" : "2018-12-28T05:20:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 139.7931498, 35.6328465 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18248609372638433006",
+      "Location" : {
+        "Address" : "3 Chome-7-11 Ariake, Koto City, Tokyo 135-0063 일본",
+        "Business Name" : "도쿄베이 아리아케 워싱턴호텔",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.6328465",
+          "Longitude" : "139.7931498"
+        }
+      },
+      "Published" : "2018-12-27T08:24:18Z",
+      "Title" : "도쿄베이 아리아케 워싱턴호텔",
+      "Updated" : "2018-12-27T08:24:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.9227330, 37.5527720 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13410873561199977610",
+      "Location" : {
+        "Address" : "대한민국 서울특별시 마포구 서교동 와우산로21길 20-11 2,3층",
+        "Business Name" : "Gamsung Taco & Grill",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5527720",
+          "Longitude" : "126.9227330"
+        }
+      },
+      "Published" : "2018-12-22T13:26:31Z",
+      "Title" : "감성타코 홍대점 GAMSUNG TACO&GRILL(Restaurante mexicano)",
+      "Updated" : "2018-12-22T13:26:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.7465704, 26.2874473 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17691832622206766943",
+      "Location" : {
+        "Address" : "7 Chome-7-12 Oyama, Ginowan, Okinawa 901-2223 일본",
+        "Business Name" : "MEGA 돈키호테 기노완점",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.2874473",
+          "Longitude" : "127.7465704"
+        }
+      },
+      "Published" : "2018-12-17T03:25:56Z",
+      "Title" : "MEGA Don Quijote Ginowan",
+      "Updated" : "2018-12-17T03:25:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.6662799, 26.1979338 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15757916158495058018",
+      "Location" : {
+        "Address" : "5 Chome-4-6 Kanagusuku, Naha, Okinawa 901-0155 일본",
+        "Business Name" : "Ryukyu new noodles Tondo Koroku head office",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.1979338",
+          "Longitude" : "127.6662799"
+        }
+      },
+      "Published" : "2018-12-17T03:23:57Z",
+      "Title" : "Ryukyu Ramen Tondo Oroku Main Branch",
+      "Updated" : "2018-12-17T03:23:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.7601768, 26.3154737 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4389840578163193254",
+      "Location" : {
+        "Address" : "2 Chome-1ｰ6 Mihama, Chatan, Nakagami District, Okinawa 904-0115 일본",
+        "Business Name" : "야요이",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.3154737",
+          "Longitude" : "127.7601768"
+        }
+      },
+      "Published" : "2018-12-16T04:13:47Z",
+      "Title" : "야요이",
+      "Updated" : "2018-12-16T04:13:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.9690709, 26.6178292 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13925039225106660076",
+      "Location" : {
+        "Address" : "1220-71 Biimata, Nago, Okinawa 905-0005 일본",
+        "Business Name" : "오키나와후르츠랜드",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.6178292",
+          "Longitude" : "127.9690709"
+        }
+      },
+      "Published" : "2018-12-16T02:03:22Z",
+      "Title" : "오키나와후르츠랜드",
+      "Updated" : "2018-12-16T02:03:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.8705048, 26.4606540 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5056949860280410665",
+      "Location" : {
+        "Address" : "1261 Igei, Kin, Kunigami District, Okinawa 904-1202 일본",
+        "Business Name" : "Onna Rest Stop (North) 온나 고속도로휴게소 (북부방향)",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.4606540",
+          "Longitude" : "127.8705048"
+        }
+      },
+      "Published" : "2018-12-15T01:35:56Z",
+      "Title" : "Onna Rest Stop (North)",
+      "Updated" : "2018-12-15T01:35:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 128.0241928, 26.7003526 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16740749444655468324",
+      "Location" : {
+        "Address" : "538 Kouri, Nakijin, Kunigami District, Okinawa 905-0406 일본",
+        "Business Name" : "코우리오션타워",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.7003526",
+          "Longitude" : "128.0241928"
+        }
+      },
+      "Published" : "2018-11-05T11:18:35Z",
+      "Title" : "코우리오션타워",
+      "Updated" : "2018-11-05T11:18:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.9895330, 26.5870376 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4316139653382312519",
+      "Location" : {
+        "Address" : "2 Chome-2-1 Agarie, Nago, Okinawa 905-0021 일본",
+        "Business Name" : "오리온 해피 파크",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.5870376",
+          "Longitude" : "127.9895330"
+        }
+      },
+      "Published" : "2018-11-05T11:14:41Z",
+      "Title" : "Orion Happy Park",
+      "Updated" : "2018-11-05T11:14:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.8722428, 26.5089901 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13722076567611884412",
+      "Location" : {
+        "Address" : "698 Serakaki, Onna, Kunigami District, Okinawa 904-0404 일본",
+        "Business Name" : "하와이안 팬케이크하우스 파니라니",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.5089901",
+          "Longitude" : "127.8722428"
+        }
+      },
+      "Published" : "2018-11-05T11:07:46Z",
+      "Title" : "Hawaiian Pancakes House Paanilani ハワイアンパンケーキハウス パニラニ",
+      "Updated" : "2018-11-05T11:07:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.7593292, 26.3174985 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13043443127273491759",
+      "Location" : {
+        "Address" : "2 Chome-5-2 Mihama, Chatan, Nakagami District, Okinawa 904-0115 일본",
+        "Business Name" : "Four Seasons Mihama Branch",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.3174985",
+          "Longitude" : "127.7593292"
+        }
+      },
+      "Published" : "2018-11-05T10:44:38Z",
+      "Title" : "Four Seasons",
+      "Updated" : "2018-11-05T10:44:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.7460090, 26.2883300 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3879626438433684797",
+      "Location" : {
+        "Address" : "7 Chome-7-1 Oyama, Ginowan, Okinawa 901-2223 일본",
+        "Business Name" : "Nature Hot Spring Aroma",
+        "Geo Coordinates" : {
+          "Latitude" : "26.2883300",
+          "Longitude" : "127.7460090"
+        }
+      },
+      "Published" : "2018-11-05T10:42:37Z",
+      "Title" : "Nature Hot Spring Aroma",
+      "Updated" : "2018-11-05T10:42:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.7996708, 26.2835007 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12916899906395963441",
+      "Location" : {
+        "Address" : "503 Ogusuku, Kitanakagusuku, Nakagami District, Okinawa 901-2314 일본",
+        "Business Name" : "Nakagusuku Castle",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.2835007",
+          "Longitude" : "127.7996708"
+        }
+      },
+      "Published" : "2018-11-05T10:39:36Z",
+      "Title" : "Nakagusuku Castle",
+      "Updated" : "2018-11-05T10:39:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.7577095, 26.3158127 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2008179420793048012",
+      "Location" : {
+        "Address" : "Mihama, Chatan, Nakagami District, Okinawa 904-0115 일본",
+        "Business Name" : "아메리칸 빌리지",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.3158127",
+          "Longitude" : "127.7577095"
+        }
+      },
+      "Published" : "2018-11-05T10:34:02Z",
+      "Title" : "아메리칸 빌리지",
+      "Updated" : "2018-11-05T10:34:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.7752590, 26.4294690 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10219233797636962286",
+      "Location" : {
+        "Address" : "1130 Yamada, Onna, Kunigami District, Okinawa 904-0416 일본",
+        "Business Name" : "류큐무라",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.4294690",
+          "Longitude" : "127.7752590"
+        }
+      },
+      "Published" : "2018-11-05T10:26:56Z",
+      "Title" : "류큐무라",
+      "Updated" : "2018-11-05T10:26:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.8501455, 26.5049491 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16135339115350022424",
+      "Location" : {
+        "Address" : "Onna, Kunigami District, Okinawa 904-0411 일본",
+        "Business Name" : "만좌모",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.5049491",
+          "Longitude" : "127.8501455"
+        }
+      },
+      "Published" : "2018-11-05T10:25:48Z",
+      "Title" : "만좌모",
+      "Updated" : "2018-11-05T10:25:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.7552967, 26.3207818 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17573695537026893226",
+      "Location" : {
+        "Address" : "25-3 Mihama, Chatan, Nakagami District, Okinawa 904-0115 일본",
+        "Business Name" : "La’gent Hotel Chatan",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "26.3207818",
+          "Longitude" : "127.7552967"
+        }
+      },
+      "Published" : "2018-11-05T10:22:10Z",
+      "Title" : "라장 호텔 앤 호스텔",
+      "Updated" : "2018-11-05T10:22:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.6886085, 26.2181092 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2+Chome-16-36+Makishi,+Naha-shi,+Okinawa-ken+900-0013+%EC%9D%BC%EB%B3%B8&ftid=0x34e5697ba55c94eb:0x42699b5114e088d5",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "26.2181092",
+          "Longitude" : "127.6886085"
+        }
+      },
+      "Published" : "2018-11-05T10:20:00Z",
+      "Title" : "2 Chome-16-36 Makishi, Naha-shi, Okinawa-ken 900-0013 일본",
+      "Updated" : "2018-11-05T10:20:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.9365878, 26.6034914 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=247-1+Yamanoha,+Nago-shi,+Okinawa-ken+905-0008+%EC%9D%BC%EB%B3%B8&ftid=0x34e4ff1d88588edd:0x809fbe57f960e1a7",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "26.6034914",
+          "Longitude" : "127.9365878"
+        }
+      },
+      "Published" : "2018-11-05T10:19:44Z",
+      "Title" : "247-1 Yamanoha, Nago-shi, Okinawa-ken 905-0008 일본",
+      "Updated" : "2018-11-05T10:19:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7745820, 35.0302367 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2817492146406862290",
+      "Location" : {
+        "Address" : "61-1 Tanaka Kamiyanagicho, Sakyo Ward, Kyoto, 606-8205 일본",
+        "Business Name" : "Torikizoku Demachiyanagi",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.0302367",
+          "Longitude" : "135.7745820"
+        }
+      },
+      "Published" : "2017-07-27T04:51:35Z",
+      "Title" : "도리기조구",
+      "Updated" : "2017-07-27T04:51:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7140942, 34.9640150 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=346186851040490352",
+      "Location" : {
+        "Address" : "404-2 Kuzekamikuzecho, Minami Ward, Kyoto, 601-8212 일본",
+        "Business Name" : "Kyoto Barber & Beauty College",
+        "Geo Coordinates" : {
+          "Latitude" : "34.9640150",
+          "Longitude" : "135.7140942"
+        }
+      },
+      "Published" : "2017-07-21T04:55:17Z",
+      "Title" : "京都理容美容専修学校",
+      "Updated" : "2017-07-21T04:55:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7745298, 35.0055264 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6687715513311628595",
+      "Location" : {
+        "Address" : "372 Kiyomotocho, Higashiyama Ward, Kyoto, 605-0084 일본",
+        "Business Name" : "기온탄토(오코노미야키)",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.0055264",
+          "Longitude" : "135.7745298"
+        }
+      },
+      "Published" : "2017-07-20T12:20:42Z",
+      "Title" : "기온탄토(오코노미야키)",
+      "Updated" : "2017-07-20T12:20:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.8946460, 35.0860450 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9244277160532354470",
+      "Location" : {
+        "Address" : "3 Chome-9-5 Noka, Otsu, Shiga 520-0102 일본",
+        "Business Name" : "Spa Resort Ogoto Agaryanse",
+        "Geo Coordinates" : {
+          "Latitude" : "35.0860450",
+          "Longitude" : "135.8946460"
+        }
+      },
+      "Published" : "2017-07-20T10:44:32Z",
+      "Title" : "Spa Resort Ogoto Agaryanse",
+      "Updated" : "2017-07-20T10:44:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7484654, 35.0037803 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6908650472277317590",
+      "Location" : {
+        "Address" : "일본 〒604-8365 Kyoto, Nakagyo Ward, Nishikiomiyacho, 116 ４F",
+        "Business Name" : "Torikizoku",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.0037803",
+          "Longitude" : "135.7484654"
+        }
+      },
+      "Published" : "2017-07-12T11:06:41Z",
+      "Title" : "도리기조구",
+      "Updated" : "2017-07-12T11:06:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7485767, 35.0038023 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18252173225119637958",
+      "Location" : {
+        "Address" : "일본 〒604-8365 Kyoto, Nakagyo Ward, Nishikiomiyacho, 117 四条大宮交差点",
+        "Business Name" : "Nakagyō Police Station Shijō-Omiya Police Box",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.0038023",
+          "Longitude" : "135.7485767"
+        }
+      },
+      "Published" : "2017-07-12T07:03:55Z",
+      "Title" : "Police box",
+      "Updated" : "2017-07-12T07:03:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7615257, 35.0439087 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5195661183049007396",
+      "Location" : {
+        "Address" : "일본 〒603-8132 Kyoto, Kita Ward, Koyamashimouchikawaracho, ６８",
+        "Business Name" : "HASEGAWA",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.0439087",
+          "Longitude" : "135.7615257"
+        }
+      },
+      "Published" : "2017-07-11T03:09:19Z",
+      "Title" : "Hasegawa",
+      "Updated" : "2017-07-11T03:09:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7331765, 35.0273942 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15106983505322287467",
+      "Location" : {
+        "Address" : "일본 〒602-8384 Kyoto, Kamigyo Ward, 今小路通御前通西入紙屋川町1049",
+        "Business Name" : "Tenkaippin Hakubaicho",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.0273942",
+          "Longitude" : "135.7331765"
+        }
+      },
+      "Published" : "2017-07-10T06:59:23Z",
+      "Title" : "Tenkaippin Hakubaicho",
+      "Updated" : "2017-07-10T07:00:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7247915, 35.0261231 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18169235913771707818",
+      "Location" : {
+        "Address" : "35 Tojiin Minamimachi, Kita Ward, Kyoto, 603-8344 일본",
+        "Business Name" : "오코노미야끼 점보",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.0261231",
+          "Longitude" : "135.7247915"
+        }
+      },
+      "Published" : "2017-07-10T06:58:45Z",
+      "Title" : "Okonomiyaki Jumbo",
+      "Updated" : "2017-07-10T06:58:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7317518, 35.0332442 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9238885809671950894",
+      "Location" : {
+        "Address" : "１４番地 Hirano Miyakitacho, Kita Ward, Kyoto, 603-8352 일본",
+        "Business Name" : "Shikura",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.0332442",
+          "Longitude" : "135.7317518"
+        }
+      },
+      "Published" : "2017-07-10T06:58:33Z",
+      "Title" : "Shikura",
+      "Updated" : "2017-07-10T06:58:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.5058663, 34.6602068 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3042890312684463927",
+      "Location" : {
+        "Address" : "일본 〒556-0005 Osaka, Naniwa Ward, Nipponbashi, 3 Chome, 〜５丁目",
+        "Business Name" : "덴덴타운 닛폰바시전기가",
+        "Geo Coordinates" : {
+          "Latitude" : "34.6602068",
+          "Longitude" : "135.5058663"
+        }
+      },
+      "Published" : "2017-07-08T03:11:01Z",
+      "Title" : "덴덴타운",
+      "Updated" : "2017-07-08T03:11:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.5012971, 34.6687234 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13311254180582368656",
+      "Location" : {
+        "Address" : "1 Chome Dotonbori, Chuo Ward, Osaka, 542-0071 일본",
+        "Business Name" : "도톤보리",
+        "Geo Coordinates" : {
+          "Latitude" : "34.6687234",
+          "Longitude" : "135.5012971"
+        }
+      },
+      "Published" : "2017-07-08T03:10:14Z",
+      "Title" : "도톤보리",
+      "Updated" : "2017-07-08T03:10:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7669581, 35.0039396 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4914042753822428259",
+      "Location" : {
+        "Address" : "일본 〒604-8042 Kyoto, Nakagyo Ward, 四条上ル中之町559 菊水ビル3F",
+        "Business Name" : "Ashoka Indian Restaurant, Kyoto",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.0039396",
+          "Longitude" : "135.7669581"
+        }
+      },
+      "Published" : "2017-07-06T04:24:13Z",
+      "Title" : "アショカ 京都",
+      "Updated" : "2017-07-06T04:24:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7090515, 34.9982358 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13717753590962066426",
+      "Location" : {
+        "Address" : "36 Nishikyogoku Nishikoromodecho, Ukyo Ward, Kyoto, 615-0877 일본",
+        "Business Name" : "Yatsuhashi＆Sisyu Yakata",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "34.9982358",
+          "Longitude" : "135.7090515"
+        }
+      },
+      "Published" : "2017-07-05T02:24:58Z",
+      "Title" : "Yatsuhashi-An and Shishu-Yakata",
+      "Updated" : "2017-07-05T02:24:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7668439, 35.0066115 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13243148180079774387",
+      "Location" : {
+        "Address" : "일본 〒604-8061 Kyoto, Nakagyo Ward, Shikibucho, 264",
+        "Business Name" : "테라마치 부타야 톤이치 (돈까스)",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "35.0066115",
+          "Longitude" : "135.7668439"
+        }
+      },
+      "Published" : "2017-07-03T04:27:56Z",
+      "Title" : "Butaya Ton'ichi Kyoto Teramachi",
+      "Updated" : "2017-07-03T04:27:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.7777595, 35.0138887 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4354921904592303025",
+      "Location" : {
+        "Address" : "5 Okazaki Tokuseicho, Sakyo Ward, Kyoto, 606-8351 일본",
+        "Business Name" : "Kyoto Career College of Foreign Languages",
+        "Geo Coordinates" : {
+          "Latitude" : "35.0138887",
+          "Longitude" : "135.7777595"
+        }
+      },
+      "Published" : "2017-07-02T09:39:40Z",
+      "Title" : "Kyotogaikokugo Training School",
+      "Updated" : "2017-07-02T09:39:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.2303939, 34.4320024 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17397871139225636744",
+      "Location" : {
+        "Address" : "1 Senshukukokita, Izumisano-shi, Osaka 549-0001 일본",
+        "Business Name" : "간사이 국제 공항",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "34.4320024",
+          "Longitude" : "135.2303939"
+        }
+      },
+      "Published" : "2016-10-26T08:31:39Z",
+      "Title" : "Kansai International Airport",
+      "Updated" : "2016-10-26T08:31:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.5056105, 34.6591520 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12034212711831356238",
+      "Location" : {
+        "Address" : "4 Chome-12-5 Nipponbashi, Naniwa Ward, Osaka, 556-0005 일본",
+        "Business Name" : "만다라케 그랜드카오스점",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "34.6591520",
+          "Longitude" : "135.5056105"
+        }
+      },
+      "Published" : "2016-10-25T02:47:09Z",
+      "Title" : "만다라케 그랜드카오스",
+      "Updated" : "2016-10-25T02:47:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.1997465, 34.6908415 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12017906854038621342",
+      "Location" : {
+        "Address" : "1 Chome-1-22 Isobedori, Chuo Ward, Kobe, Hyogo 651-0084 일본",
+        "Business Name" : "호텔 선루트 소프라 고베",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "34.6908415",
+          "Longitude" : "135.1997465"
+        }
+      },
+      "Published" : "2016-10-25T02:42:26Z",
+      "Title" : "Hotel Sunroute Sopra Kobe",
+      "Updated" : "2016-10-25T02:42:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 132.7713640, 33.8425660 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7731732470925180900",
+      "Location" : {
+        "Address" : "일본 〒790-0801 Ehime, Matsuyama, Kachimachi, 2 Chome−３−16",
+        "Business Name" : "チャーリーズベジタブルウィズプチスリーズ",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "33.8425660",
+          "Longitude" : "132.7713640"
+        }
+      },
+      "Published" : "2016-10-22T02:36:19Z",
+      "Title" : "チャーリーズ・ベジタブル",
+      "Updated" : "2016-10-22T02:36:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 135.5029128, 34.7052817 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4205581114932946842",
+      "Location" : {
+        "Address" : "일본 〒530-0015 Osaka, Kita Ward, Nakazakinishi, 2 Chome−1−9 観光ビル「大東洋」 １Ｆ",
+        "Business Name" : "사우나&캡슐호텔 다이토요",
+        "Country Code" : "JP",
+        "Geo Coordinates" : {
+          "Latitude" : "34.7052817",
+          "Longitude" : "135.5029128"
+        }
+      },
+      "Published" : "2016-01-31T15:38:41Z",
+      "Title" : "Capsule Hotel Daitoyo",
+      "Updated" : "2016-01-31T15:38:41Z"
+    },
+    "type" : "Feature"
+  } ]
+}
